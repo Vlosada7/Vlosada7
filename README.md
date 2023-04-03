@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Udaan](https://github.com/josh806/Udaan)
 
+- 🌍 I'm based in Barcelona 
+
 - 💬 Ask me about **Backend**
 
 - 📫 How to reach me **losada.adv@gmail.com | +34 622 713 212**
