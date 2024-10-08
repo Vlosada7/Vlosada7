@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Losada</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
+<h3 align="center">A passionate software engineer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlosada7&label=Profile%20views&color=0e75b6&style=flat" alt="vlosada7" /> </p>
 
-- 🔭 I’m currently working on Prexfy as FullStack Developer
+- 🔭 I’m currently working on e-Pitinglish as CTO & Co-Founder
 
 - 🌍 I'm based in Barcelona 
 
